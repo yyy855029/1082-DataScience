@@ -1,0 +1,7 @@
+set,training,validation,testing
+fold1,1,1,1
+fold2,1,1,1
+fold3,1,1,1
+fold4,1,1,1
+fold5,1,1,1
+ave.,1,1,1
