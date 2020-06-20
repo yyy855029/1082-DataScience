@@ -1,1 +1,1 @@
-# 1082-DataScience
+# 1082-datascience_practice
