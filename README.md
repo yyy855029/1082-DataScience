@@ -11,7 +11,9 @@ Sensitivity,Specificity,F1 Score,AUC計算
 ### HW3:
 N-fold Cross Validation實作
 ### HW4:
-Principal Component Analysis(PCA), Correspondence Analysis(CA), Shiny資料視覺化實作
+* Principal Component Analysis(PCA)
+* Correspondence Analysis(CA)
+* Shiny資料視覺化實作
 ### HW5:
 機器學習案例: Titanic Dataset
 ### HW6:
@@ -24,7 +26,9 @@ Principal Component Analysis(PCA), Correspondence Analysis(CA), Shiny資料視�
 ### 資料集:
 [Kaggle: Pokemon Battle Dataset](https://www.kaggle.com/terminus7/pokemon-challenge)
 ### 使用模型:
-Logistic Regression, Random Forest, XGBoost
+* Logistic Regression
+* Random Forest
+* XGBoost
 ### 參考資料:
 * 領域知識:
   * The Official Pokemon Website [https://www.pokemon.com/uk/]
