@@ -39,4 +39,3 @@ print(g)
 
 https://changlab.shinyapps.io/ggvisExample/
 
-![ggvisExample](/images/img1.png)
