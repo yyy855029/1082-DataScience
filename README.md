@@ -9,12 +9,12 @@ Rscipt指令使用
 ### HW2:
 Sensitivity,Specificity,F1 Score,AUC計算
 ### HW3:
-N-fold Cross Validation
+N-fold Cross Validation實作
 ### HW4:
-Principal Component Analysis(PCA),Correspondence Analysis(CA),Shiny Data Visualization
+Principal Component Analysis(PCA), Correspondence Analysis(CA), Shiny資料視覺化實作
 ### HW5:
-Machine Learning Case: Titanic Dataset
+機器學習案例: Titanic Dataset
 ### HW6:
-Machine Learning Case: GiveMeSomeCredit Dataset
+機器學習案例: GiveMeSomeCredit Dataset
 ### HW7:
-Machine Learning Case: Homemade Dataset
+機器學習案例: Homemade Dataset
