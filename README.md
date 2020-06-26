@@ -11,8 +11,8 @@ Sensitivity,Specificity,F1 Score,AUC計算
 ### HW3:
 N-fold Cross Validation實作
 ### HW4:
-* Principal Component Analysis(PCA)
-* Correspondence Analysis(CA)
+* Principal Component Analysis (PCA)
+* Correspondence Analysis (CA)
 * Shiny資料視覺化實作
 ### HW5:
 機器學習案例: Titanic Dataset
