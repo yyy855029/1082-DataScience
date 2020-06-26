@@ -25,7 +25,7 @@ Principal Component Analysis(PCA), Correspondence Analysis(CA), Shiny資料視�
 [Kaggle: Pokemon Battle Dataset](https://www.kaggle.com/terminus7/pokemon-challenge)
 ### 使用模型:
 Logistic Regression, Random Forest, XGBoost
-## 參考資料:
+### 參考資料:
 * 領域知識:
   * The Official Pokemon Website [https://www.pokemon.com/uk/]
   * Pokemon Wikipedia [https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5]
