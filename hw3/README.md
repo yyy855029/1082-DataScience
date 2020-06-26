@@ -1,7 +1,5 @@
 # hw3. predict protein subcellular localization
 
-![PredictProtein](/images/img1.png)
-
 ### Name: 黃子瑋
 ### Student ID: 108352024
 
@@ -14,9 +12,6 @@ Rscript hw3_studentID.R --fold k --input Archaeal_tfpssm.csv --output performanc
 ```
 * Perform *k*-fold cross-validation
 * % of training, % of calibration, % of testing= *k*-2, 1, 1
-
-The following shows the example of the 5-fold cross validation.
-![cross-validation](/images/img2.png)
 
 ## Input: Archaeal_tfpssm.csv
 
