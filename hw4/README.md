@@ -15,7 +15,6 @@
     * PCA result (i.e., amount of variances ... )
     * ...
 
-![pcaExample](/images/img2.png)
 
 * You might start by integrating the following example (pcr.R) into shiny app. Of course, feel free to find other appropriate packages for PCA.
 
