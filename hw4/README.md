@@ -2,7 +2,7 @@
 
 ### Name: 黃子瑋
 ### Student ID: 108352024
-### ShinyApps link: [<https://yourname.shinyapps.io/hw4/>]
+### ShinyApps link: [https://ziweihuang.shinyapps.io/homework4/]
 
 ## Description
 
