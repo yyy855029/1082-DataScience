@@ -31,9 +31,9 @@ N-fold Cross Validation實作
 * XGBoost
 ### 參考資料:
 * 領域知識:
-  * The Official Pokemon Website [https://www.pokemon.com/uk/]
-  * Pokemon Wikipedia [https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5]
+  * [The Official Pokemon Website](https://www.pokemon.com/uk/)
+  * [Pokemon Wikipedia](https://wiki.52poke.com/wiki/%E4%B8%BB%E9%A1%B5)
 * 資料視覺化:
-  * Pokemon Battles | Kaggle [https://www.kaggle.com/jonathanbouchet/pokemon-battles]
-  * Data ScienceTutorial for Beginners | Kaggle [https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners]
-  * Pokemon's Types and Features Exploratory Data Analysis | Zhihu [https://zhuanlan.zhihu.com/p/26787563]
+  * [Pokemon Battles | Kaggle](https://www.kaggle.com/jonathanbouchet/pokemon-battles)
+  * [Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+  * [Pokemon's Types and Features Exploratory Data Analysis | Zhihu](https://zhuanlan.zhihu.com/p/26787563)
