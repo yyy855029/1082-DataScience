@@ -97,3 +97,5 @@ model<-randomForest(label~.,data=subset(random_train_data,select=-c(id,feature9)
 test_predict<-predict(model,raw_test_data)
 predict_result<-data.frame(id=test_ids,label=test_predict)
 write.csv(predict_result,'submission.csv',row.names=FALSE,quote=FALSE)
+
+
