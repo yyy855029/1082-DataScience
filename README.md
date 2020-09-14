@@ -22,13 +22,15 @@ N-fold Cross Validation實作
 機器學習案例: Homemade Dataset
 ## 期末報告:
 ### 主題:
-[寶可夢對戰結果預測](https://ziweihuang.shinyapps.io/FinalProject/)
+寶可夢對戰結果預測
 ### 資料集:
 [Kaggle: Pokemon Battle Dataset](https://www.kaggle.com/terminus7/pokemon-challenge)
 ### 使用模型:
 * Logistic Regression
 * Random Forest
 * XGBoost
+### Shiny App:
+https://ziweihuang.shinyapps.io/FinalProject/
 ### 參考資料:
 * 領域知識:
   * [The Official Pokemon Website](https://www.pokemon.com/uk/)
