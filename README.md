@@ -1,4 +1,4 @@
-# 1082-datascience
+# 1082 NCCU DataScience Course
 ## 介紹:
 放上108/02資料科學課程作業和期末報告內容
 ## 使用程式:
