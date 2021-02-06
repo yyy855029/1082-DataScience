@@ -53,9 +53,9 @@ Rscript code/modelselection.R --fold 5  --pokemon data/pokemon.csv --combat data
   SP.Def   |Special defense points|
   Speed    |Speed of pokemon|
   Generation|Development stage| 1 to 6
-  Legendary|Legendary status|1=legendary, 0=ordinary
-  
-  
+  Legendary|Legendary status|1=legendary, 0=ordinary  
+
+    
 ![datasetsceenshot](dataformat.JPG)
 
   * And the data below is the result of the battle, we will divide the data into train and test to train the model
